@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Liu on Xiao Liu</title>
+    <link>https://xiaoliubit.github.io/</link>
+    <description>Recent content in Xiao Liu on Xiao Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; by Xiao Liu, 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</title>
+      <link>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time Scholarly Retweeting Prediction System</title>
+      <link>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
