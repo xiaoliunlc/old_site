@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; by Xiao Liu, 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Distant Supervision for Relation Extraction with Linear Attenuation Simulation and Non-IID Relevance Embedding</title>
       <link>https://xiaoliubit.github.io/publication/aaai2019-re/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>https://xiaoliubit.github.io/publication/aaai2019-re/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
@@ -23,7 +23,7 @@
     <item>
       <title>Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</title>
       <link>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
@@ -33,7 +33,7 @@
     <item>
       <title>Real-time Scholarly Retweeting Prediction System</title>
       <link>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
       
       <guid>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
