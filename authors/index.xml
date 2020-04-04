@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Xiao Liu</title>
+    <link>https://xiaoliubit.github.io/authors/</link>
+      <atom:link href="https://xiaoliubit.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://xiaoliubit.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Changsen Yuan</title>
+      <link>https://xiaoliubit.github.io/authors/changsen-yuan/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/changsen-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heyan Huang</title>
+      <link>https://xiaoliubit.github.io/authors/heyan-huang/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/heyan-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiao Liu</title>
+      <link>https://xiaoliubit.github.io/authors/xiao-liu/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/xiao-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue Zhang</title>
+      <link>https://xiaoliubit.github.io/authors/yue-zhang/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/yue-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chong Feng</title>
+      <link>https://xiaoliubit.github.io/authors/chong-feng/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/chong-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaochi Wei</title>
+      <link>https://xiaoliubit.github.io/authors/xiaochi-wei/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/xiaochi-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhunchen Luo</title>
+      <link>https://xiaoliubit.github.io/authors/zhunchen-luo/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/zhunchen-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xiaoliubit.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a third year Ph.D. candidate majoring in Computer Science at 
+&lt;a href=&#34;http://cs.bit.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computer Science &amp;amp; Technology, Beijing Institute of Technology&lt;/a&gt;.
+My research interests are mainly focused on Natural language processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.&lt;/p&gt;
+&lt;p&gt;My Ph.D. supervisor is 
+&lt;a href=&#34;http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;professor Heyan Huang&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Xiao Liu</title>
+    <title>1 | Xiao Liu</title>
     <link>https://xiaoliubit.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Xiao Liu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; by Xiao Liu, 2018</copyright>
-    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://xiaoliubit.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://xiaoliubit.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Tue, 14 May 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://xiaoliubit.github.io/publication_types/1/</link>
+    </image>
     
     <item>
       <title>Open Domain Event Extraction Using Neural Latent Variable Models</title>
       <link>https://xiaoliubit.github.io/publication/acl2019-odee/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0800</pubDate>
-      
       <guid>https://xiaoliubit.github.io/publication/acl2019-odee/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Distant Supervision for Relation Extraction with Linear Attenuation Simulation and Non-IID Relevance Embedding</title>
       <link>https://xiaoliubit.github.io/publication/aaai2019-re/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0800</pubDate>
-      
       <guid>https://xiaoliubit.github.io/publication/aaai2019-re/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</title>
       <link>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
-      
       <guid>https://xiaoliubit.github.io/publication/emnlp2018-multiee/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Real-time Scholarly Retweeting Prediction System</title>
       <link>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
-      
       <guid>https://xiaoliubit.github.io/publication/coling2018-paperaccepted/</guid>
       <description></description>
     </item>

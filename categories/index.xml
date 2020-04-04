@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Xiao Liu</title>
+    <title>Categories | Xiao Liu</title>
     <link>https://xiaoliubit.github.io/categories/</link>
-    <description>Recent content in Categories on Xiao Liu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; by Xiao Liu, 2018</copyright>
-    
-	<atom:link href="https://xiaoliubit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://xiaoliubit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Categories</title>
+      <link>https://xiaoliubit.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>
