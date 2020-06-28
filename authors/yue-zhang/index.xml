@@ -5,12 +5,20 @@
     <link>https://xiaoliubit.github.io/authors/yue-zhang/</link>
       <atom:link href="https://xiaoliubit.github.io/authors/yue-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yue Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yue Zhang</title>
       <link>https://xiaoliubit.github.io/authors/yue-zhang/</link>
     </image>
+    
+    <item>
+      <title>Dialogue State Induction Using Neural Latent Variable Models</title>
+      <link>https://xiaoliubit.github.io/publication/ijcai2020-dsi/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/publication/ijcai2020-dsi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News-Driven Stock Prediction With Attention-Based Noisy Recurrent State Transition</title>

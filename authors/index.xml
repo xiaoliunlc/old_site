@@ -5,12 +5,52 @@
     <link>https://xiaoliubit.github.io/authors/</link>
       <atom:link href="https://xiaoliubit.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© by Xiao Liu, 2020</copyright><lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://xiaoliubit.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Libo Qin</title>
+      <link>https://xiaoliubit.github.io/authors/libo-qin/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/libo-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingkai Min</title>
+      <link>https://xiaoliubit.github.io/authors/qingkai-min/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/qingkai-min/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiao Liu</title>
+      <link>https://xiaoliubit.github.io/authors/xiao-liu/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/xiao-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue Zhang</title>
+      <link>https://xiaoliubit.github.io/authors/yue-zhang/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/yue-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiyang Teng</title>
+      <link>https://xiaoliubit.github.io/authors/zhiyang-teng/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://xiaoliubit.github.io/authors/zhiyang-teng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Changsen Yuan</title>
@@ -25,22 +65,6 @@
       <link>https://xiaoliubit.github.io/authors/heyan-huang/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
       <guid>https://xiaoliubit.github.io/authors/heyan-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiao Liu</title>
-      <link>https://xiaoliubit.github.io/authors/xiao-liu/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
-      <guid>https://xiaoliubit.github.io/authors/xiao-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yue Zhang</title>
-      <link>https://xiaoliubit.github.io/authors/yue-zhang/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
-      <guid>https://xiaoliubit.github.io/authors/yue-zhang/</guid>
       <description></description>
     </item>
     
